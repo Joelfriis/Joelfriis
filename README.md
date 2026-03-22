@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎒 Currently enrolled as a third year student at **KTH Royal Institute of Technology**
-- Employed as a consultant i at **Advisense** working with regulatory reporting
+- Employed as a consultant at **Advisense** working with regulatory reporting.
 - 🔭 Pursuing the **Degree Programme in Information and Communication Technology**
 
 ## Languages and Technologies
