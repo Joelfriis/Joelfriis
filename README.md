@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👤 Joel Friis - Stockholm, Sweden
 
-<!--
-**Joelfriis/Joelfriis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎒 Currently enrolled as a third year student at **KTH Royal Institute of Technology**
+- Employed as a consultant i at **Advisense** working with regulatory reporting
+- 🔭 Pursuing the **Degree Programme in Information and Communication Technology**
 
-Here are some ideas to get you started:
+## Languages and Technologies
+**Java**
+**C**
+**Python**
+**Javascript**
+**Typescript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- 🤝 Contact via **[LinkedIn](www.linkedin.com/in/joel-friis-435b9b16b)**
